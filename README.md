@@ -4,7 +4,7 @@ AI-powered code reviewer that gives instant, smart feedback on your JavaScript c
 
 ## 🌐 Live Demo
 
-👉 [Visit the App](https://your-vercel-link.vercel.app)  
+👉 [Visit the App](https://ai-code-reviewer-rust.vercel.app/)  
 *(Replace this link with your actual deployed Vercel URL)*
 
 ---
