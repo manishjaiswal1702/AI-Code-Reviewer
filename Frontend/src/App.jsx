@@ -12,7 +12,6 @@ function App() {
   const [ count, setCount ] = useState(0)
   const [ code, setCode ] = useState(` function reviewer() {
   console.log("Write your code here ...");
-}
 }`)
 
   const [ review, setReview ] = useState(``)
