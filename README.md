@@ -27,9 +27,3 @@ AI-powered code reviewer that gives instant, smart feedback on your JavaScript c
 
 ---
 
-## 📦 How to Run Locally
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/ai-code-reviewer.git
-cd ai-code-reviewer
